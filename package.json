@@ -1,0 +1,18 @@
+{
+  "name": "narrow-region",
+  "main": "./lib/narrow-region",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "narrow-region:toggle"
+  },
+  "repository": "https://github.com/atom/narrow-region",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
