@@ -2,8 +2,12 @@
   "name": "narrow-region",
   "main": "./lib/narrow-region",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Emacs-like region narrowing for atom",
   "keywords": [
+    "emacs",
+    "narrow",
+    "narrow-region",
+    "vim-narrow"
   ],
   "activationCommands": {
     "atom-workspace": "narrow-region:toggle"
